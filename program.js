@@ -1,1 +1,3 @@
-console.log('HELLO WORLD')
+var fs = require('fs');
+
+fs.readFileSync()
